@@ -2,6 +2,14 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>NSCameraUsageDescription</key>
+	<string>Sangahz wants to use Camera.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Sangahz wants to use Microphone.</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>Sangahz wants to save videos.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Sangahz wants to use Photos.</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
 	<key>CFBundleExecutable</key>
